@@ -1,9 +1,5 @@
-# DEMO GIT REPOSITORY
+# DEMO  GIT REPOSITORY
+honestly not sure what i'm doing but i'm learning like everyone here. 
+## step by step 
 
-This is my first file in this repo.
-
-## ipsum Below
-saca la mota loco
-
-## PERICO
-PERiCO DEL CHIDO
+## i like to edit thing
