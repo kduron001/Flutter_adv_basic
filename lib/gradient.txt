@@ -1,0 +1,15 @@
+import 'package:flutter/material.dart';
+import 'package:adv_basic/start_screen.dart';
+
+class GradientContainers extends StatelessWidget {
+  const GradientContainers({super.key});
+  @override
+  Widget build(context) {
+    return Container(
+      decoration: const BoxDecoration(
+        color: Color.fromARGB(255, 81, 23, 205),
+      ),
+      child: const Center(child: Flutter()),
+    );
+  }
+}
